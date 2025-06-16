@@ -2,7 +2,7 @@
 
 Exercício para criação de terminal para inserção de dados de uma conta de banco.
 
-Exercício feito para a trilha de java básico do bootcamp Santander DIO 2024 - Java Backend.
+Exercício feito para a trilha de java básico do bootcamp Santander DIO 2025 - Java Backend.
 
 ## Project Structure
 
