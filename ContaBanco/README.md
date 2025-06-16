@@ -1,17 +1,18 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Exercício para criação de terminal para inserção de dados de uma conta de banco.
 
-## Folder Structure
+Exercício feito para a trilha de java básico do bootcamp Santander DIO 2024 - Java Backend.
 
-The workspace contains two folders by default, where:
+## Project Structure
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Dados constantes do projeto:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Número da conta, número da agência, nome do titular e saldo.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Após inserir os dados, será retornanda uma string contendo todas as informações formatadas de fomrma amigável.
+
+Olá, [nome do cliente], obrigado por criar uma conta em nosso banco, sua agência é [número da agência], conta [número da conta] e seu saldo [Saldo informado] já está disponível para saque.
 
 ## Dependency Management
 
