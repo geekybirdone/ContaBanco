@@ -1,8 +1,12 @@
 import java.util.Scanner;
+import java.util.Locale;
 
 public class ContaTerminal {
     public static void main(String[] args) {
-        
+
+        //Instanciação da localidade
+        Locale.setDefault(Locale.US);
+
         //Criação do Scanner
         Scanner sc = new Scanner(System.in);
 
@@ -25,7 +29,7 @@ public class ContaTerminal {
         System.out.print("Digite o valor do saldo inicial: ");
         balance = sc.nextFloat();
 
-        //Impressão dos dados na tela
+        //Impressão dos dados na telagit push origin
         System.out.println("\n--------------------------------------------");
         System.out.println("Dados da conta");
         System.out.println("--------------------------------------------");
